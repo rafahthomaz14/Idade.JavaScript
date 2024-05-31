@@ -1,0 +1,16 @@
+body {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 200px;
+    background-color: rgba(157, 255, 253, 0.644);
+}
+
+.card {
+    font: normal 15pt Arial;
+    color: white;
+    padding: 20px;
+    background-color: rgb(16, 87, 230);
+    width: 450px;
+    height: 200px;
+}
